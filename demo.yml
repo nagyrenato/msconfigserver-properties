@@ -1,1 +1,3 @@
 message: Some message
+server:
+  port: 8081
